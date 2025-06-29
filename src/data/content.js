@@ -4,7 +4,7 @@ export const siteContent = {
     name: "Ayush Mishra",
     role: "Full-Stack Developer",
     description: "I craft digital experiences that blend beautiful design with powerful functionality. Passionate about creating solutions that make a difference.",
-    profileImage: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
+    profileImage: "https://github.com/ayushmishra2001/My-Portfolio/blob/main/Snapchat-1583044254.jpg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
     resumeUrl: "https://github.com/ayushmishra2001/My-Portfolio/blob/main/Ayush_Mishra_CV.pdf",
     ctaButtons: [
       { text: "View My Work", href: "#projects", primary: true },
