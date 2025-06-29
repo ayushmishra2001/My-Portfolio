@@ -1,8 +1,8 @@
 export const siteContent = {
   // Hero Section
   hero: {
-    name: "Alex Johnson",
-    role: "Full-Stack Developer & UI/UX Designer",
+    name: "Ayush Mishra",
+    role: "Full-Stack Developer",
     description: "I craft digital experiences that blend beautiful design with powerful functionality. Passionate about creating solutions that make a difference.",
     profileImage: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
     resumeUrl: "/resume.pdf",
@@ -41,9 +41,9 @@ export const siteContent = {
   // About Section
   about: {
     title: "About Me",
-    description: "With over 5 years of experience in full-stack development, I specialize in building scalable web applications and creating intuitive user experiences. I'm passionate about clean code, modern technologies, and solving complex problems.",
+    description: "With over 2 years of experience in full-stack development, I specialize in building scalable web applications and creating intuitive user experiences. I'm passionate about clean code, modern technologies, and solving complex problems.",
     highlights: [
-      "5+ years of professional development experience",
+      "2 years of professional development experience",
       "Expert in React, Node.js, and modern web technologies",
       "Strong focus on performance and user experience",
       "Experience with cloud platforms and DevOps practices"
@@ -172,16 +172,16 @@ export const siteContent = {
   contact: {
     title: "Let's Work Together",
     description: "Have a project in mind? I'd love to hear about it. Send me a message and let's discuss how we can bring your ideas to life.",
-    email: "alex@example.com",
-    phone: "+1 (555) 123-4567",
-    location: "San Francisco, CA"
+    email: "ayusmishra2001@gmail.com",
+    phone: "+91 6207248129",
+    location: "Patna, India"
   },
 
   // Social Links
   social: [
-    { name: "GitHub", url: "https://github.com", icon: "Github" },
-    { name: "LinkedIn", url: "https://linkedin.com", icon: "Linkedin" },
-    { name: "Twitter", url: "https://twitter.com", icon: "Twitter" },
-    { name: "Email", url: "mailto:alex@example.com", icon: "Mail" }
+    { name: "GitHub", url: "https://github.com/ayushmishra2001", icon: "Github" },
+    { name: "LinkedIn", url: "https://www.linkedin.com/in/ayush-m-095082321/", icon: "Linkedin" },
+    { name: "Twitter", url: "https://x.com/AyushMishrazx", icon: "Twitter" },
+    { name: "Email", url: "ayusmishra2001@gmail.com", icon: "Mail" }
   ]
 };
